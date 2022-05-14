@@ -1,0 +1,182 @@
+# To add your language, just add a new section at the end of this file for your
+# language using the same format as below.  
+# Your language will automatically appear in the language configuration menu.
+# Send me your translations and I will include them with the program.
+#
+[English]
+main1=Save current icon positions
+main2=Save icon positions to grid
+main3=Restore icon positions
+main4=Configuration
+main5=Help
+main6=About
+main7=Select an item
+pb_done=Done
+pb_select=Select
+pb_return=Return
+pb_edit=Edit
+pb_save=Save
+pb_cancel=Cancel
+config1=Language
+config2=Icons per row
+config3=Icons per column
+config4=Left Margin
+config5=Top Margin
+config6=Grid Width
+config7=Grid Height
+config8=Select item to edit
+msg1=Icon positions saved
+msg2=Icon positions restored
+msg3=Press F5 to refresh desktop
+msg4=Enter new value for
+msg5=Negative values are\n not allowed!
+msg6=Values must be numbers ... Not text!
+msg7=xdotool is NOT installed and is required\nto auto-refresh the desktop.\n\n Press F5 to manually refresh.
+msg8=Would you like to create a desktop icon\nto launch the application?
+msg9=Screen resolution has changed from
+msg10=to
+msg11=since the icon positions were last saved.  \n\nIcon positions will be updated!
+msg12=The Nautilus Default Icon Zoom has changed from
+
+[Español]
+main1=Guardar posición icono actual
+main2=Guardar posiciones de los iconos a cuadrícula
+main3=Restaurar posiciones de los iconos
+main4=Configuración
+main5=Ayuda
+main6=Acerca de
+main7=Seleccione un elemento
+pb_done=Terminado
+pb_select=Seleccionar
+pb_return=Retorno
+pb_edit=Editar
+pb_save=Guardar
+pb_cancel=Cancelar
+config1=Lenguaje
+config2=Iconos por fila
+config3=Iconos por columna
+config4=Margen izquierdo
+config5=Margen superior
+config6=Cuadrícula Ancho
+config7=Cuadrícula Altura
+config8=Seleccione un elemento para editar
+msg1=Posiciones de los iconos guardados
+msg2=Posiciones de los iconos restaurados
+msg3=Presione F5 para actualizar iconos
+msg4=Introduzca un nuevo valor para
+msg5=Los valores negativos no están permitidos!
+msg6=Los valores deben ser números ... No texto!
+msg7=Xdotool NO está instalado y es necesario\npara auto-actualizar el escritorio.\n\nPresione F5 para actualizar manualmente.
+msg8=¿Quieres crear un icono de escritorio\npara iniciar la aplicación?
+msg9=Resolución de la pantalla ha cambiado de
+msg10=a
+msg11=desde que las posiciones de los iconos se guardó por última vez.\n\nPosiciones de los iconos serán actualizadas!
+msg12=El icono "Default Zoom Level" Nautilus ha cambiado de
+
+[Français]
+main1=Enregistrer la position des icônes actuelles
+main2=Enregistrer l'icône positions sur la grille
+main3=Restaurer la position des icônes
+main4=Configuration
+main5=Aide
+main6=A propos de
+main7=Sélectionnez un élément
+pb_done=Terminé
+pb_select=Sélectionnez
+pb_return=Retour
+pb_edit=Modifier
+pb_save=Enregistrer
+pb_cancel=Annuler
+config1=Langue
+config2=Icônes par rangée
+config3=Icônes par colonne
+config4=Marge de gauche
+config5=Marge supérieure
+config6=Grille Largeur
+config7=Grille Hauteur
+config8=Sélectionnez l'élément à modifier
+msg1=la position des icônes ont été sauvés
+msg2=la position des icônes ont été restaurés
+msg3=Appuyez sur F5 pour actualiser bureau
+msg4=Entrer une nouvelle valeur pour
+msg5=Les valeurs négatives ne sont pas autorisés!
+msg6=Les valeurs doivent être des nombres ... pas de texte!
+msg7=Xdotool est pas installé et est nécessaire\nà l'auto-actualiser le bureau.\n\nAppuyez sur F5 pour actualiser manuellement.
+msg8=Vous voulez créer une icône sur le\nbureau pour lancer l'application?
+msg9=Résolution d'écran a changé à partir de
+msg10=à
+msg11=depuis la position des icônes ont été sauvegardés dernière.  \n\nLa position des icônes seront mises à jour!
+msg12=Le Nautilus icône "Default Zoom Level" a changé à partir de
+
+
+[Italiano]
+main1=Salvare attuali posizioni delle icone
+main2=Salvare posizioni delle icone a griglia
+main3=Ripristina posizione delle icone
+main4=Configurazione
+main5=Aiuto
+main6=Informazioni
+main7=Selezionare una voce
+pb_done=Fatto
+pb_select=Seleziona
+pb_return=Ritorno
+pb_edit=Modifica
+pb_save=Salva
+pb_cancel=Annulla
+config1=Lingua
+config2=icone per riga
+config3=icone per colonna
+config4=Margine sinistro
+config5=Margine superiore
+config6=griglia Larghezza
+config7=griglia Altezza
+config8=Seleziona voce da modificare
+msg1=Posizione delle icone salvate
+msg2=Posizione delle icone restaurato
+msg3=Premere F5 per aggiornare il desktop
+msg4=Inserisci nuovo valore per
+msg5=I valori negativi non sono ammessi!
+msg6=I valori devono essere numeri ... Non testo!
+msg7=Xdotool NON è installata ed è necessario\nper l'auto-aggiornare il desktop.\n\nPremere F5 per aggiornare manualmente.
+msg8=Vorresti creare un'icona sul desktop\nper avviare l'applicazione?
+msg9=Risoluzione dello schermo è modificato da
+msg10=a
+msg11=dall'ultima volta che le posizioni delle icone sono state salvate.  \n\nPosizioni delle icone verranno aggiornate!
+msg12=Il Nautilus icona "Default Zoom Level" è cambiato da
+
+
+[Português]
+main1=Salve posições dos ícones atuais
+main2=Salve posições dos ícones para grade
+main3=Restaurar as posições dos ícones
+main4=Configuração
+main5=Ajuda
+main6=Cerca de
+main7=Selecione um item
+pb_done=Concluído
+pb_select=Selecionar
+pb_return=Retorno
+pb_edit=Editar
+pb_save=Salvar
+pb_cancel=Cancelar
+config1=Idioma
+config2=Ícones por fila
+config3=Ícones por coluna
+config4=Margem Esquerda
+config5=Margem superior
+config6=Grade Largura
+config7=Grade Altura
+config8=Selecione o item a ser editado
+msg1=Posições do ícone gravadas
+msg2=Posições do ícone restaurado
+msg3=Pressione F5 para atualizar desktop
+msg4=Digite novo valor para
+msg5=Os valores negativos não são permitidos!
+msg6=Os valores devem ser números ... Não texto!
+msg7=Xdotool NÃO está instalado e é necessário\npara auto-atualizar a área de trabalho.\n\nPressione F5 para atualizar manualmente.
+msg8=Gostaria de criar um ícone no desktop\npara iniciar o aplicativo?
+msg9=Resolução da tela mudou de
+msg10=para
+msg11=desde a última vez que as posições ícone foram salvos.  \n\nPosições do ícone será atualizado!
+msg12=O Nautilus ícone "Default Zoom Level" foi alterado de
+

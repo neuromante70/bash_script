@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+#!/home/fmontecchio/.rvm/rubies/ruby-2.0.0-p247/bin/ruby
+
+system 'rails s' 

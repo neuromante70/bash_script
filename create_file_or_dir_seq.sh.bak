@@ -1,0 +1,39 @@
+#!/bin/bash
+#touch  file{1..15}
+
+CHOICE=""
+until [[ $CHOICE=="d" || $CHOICE=="f" ]]; 
+    do
+        echo -n "Do you want to create a sequence of files or directories? d(ir) f(ile) "
+        read CHOICE
+    done
+
+while [ -z "$NR" ]; do
+    echo -n "How many files/dirs? Insert a number: "
+    read NR
+done
+
+echo -n "Basename of the file/directory? Insert a name: "
+read NAME
+
+if [ -z "$NAME" ]; then
+    if [ "$CHOICE"=="d" ]; then
+        NAME="dir-"
+    fi
+    if [ "$CHOICE"=="f"  ]; then
+        NAME="file-"
+    fi
+fi
+
+
+if [ "$CHOICE" == "d" ]; then
+	for i in $(seq -f "%02g" 1 $NR);
+		do mkdir ./$NAME${i};
+	done
+elif [ "$CHOICE" == "f" ]; then
+	for i in $(seq -f "%02g" 1 $NR);
+	do touch $NAME${i};
+	done
+fi
+
+
